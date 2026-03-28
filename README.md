@@ -36,20 +36,20 @@
 </div>
 
 ##
+
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=008080&width=900&size=20&center=true&lines=Entre+em+Contato;Contact+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=008080&width=900&size=25&center=true&lines=Entre+em+Contato;Contact+me"/>
 </div>
 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
 <br>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-116cad?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielbraz468@gmail.com)
   
