@@ -16,7 +16,7 @@
 
 <div align="center">
 
-| &nbsp; | &nbsp; |
+| 👨‍💻 Detalhes  | 🏆 Linguagem Mais Usada |
 | :---: | :---: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeloBraz&theme=gotham) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angeloBraz&theme=gotham) |
 
