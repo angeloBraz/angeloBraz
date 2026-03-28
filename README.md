@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=32CD32&width=900&size=29&center=true&lines=Seja+Bem+Vindo!;Welcome!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o;Developer+in+training"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=008080&width=900&size=29&center=true&lines=Seja+Bem+Vindo!;Welcome!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o;Developer+in+training"/>
 </div>
 
 <div align="center">
@@ -31,5 +31,5 @@
 
 
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer"/>
 </div>
