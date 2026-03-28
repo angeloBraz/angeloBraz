@@ -6,12 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=32CD32&width=900&size=29&center=true&lines=Seja+Bem+Vindo!;Welcome!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o;Developer+in+training"/>
 </div>
 
-##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelobraz&show_icons=true&locale=en&layout=compact" alt="angelobraz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelobraz&show_icons=true&locale=en" alt="angelobraz" /></p>
-
-##
+<div align="center">
+  
+  ![Estatísticas do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelobraz&theme=transparent)
+</div>
     
 ##
 
