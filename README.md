@@ -8,10 +8,10 @@
 
 <div align="center">
   
-  ![Estatísticas do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelobraz&theme=transparent)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeloBraz&theme=gotham)
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeloBraz&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeloBraz&theme=gotham)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeloBraz&theme=gotham)](https://git.io/streak-stats) 
 
 ##
 
