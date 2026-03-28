@@ -51,7 +51,7 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-116cad?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielbraz468@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-008080?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielbraz468@gmail.com)
   
 </div>
 <br>
