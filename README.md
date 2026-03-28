@@ -7,11 +7,20 @@
 </div>
 
 <div align="center">
-  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeloBraz&theme=gotham)
+
+| 🔥 GitHub Streak | 📊 GitHub Stats |
+| :---: | :---: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeloBraz&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angeloBraz&theme=gotham) |
+
 </div>
 
- | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeloBraz&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angeloBraz&theme=gotham) |
+<div align="center">
+
+| &nbsp; | &nbsp; |
+| :---: | :---: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeloBraz&theme=gotham) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angeloBraz&theme=gotham) |
+
+</div>
 
 ##
 
