@@ -3,8 +3,8 @@
 </div>
 
 <div align="center" width="100%">
-  <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=DC143C&width=900&size=22&center=true&lines=Seja+Bem+Vindo!;Welcome!;Developer+in+ training;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=DC143C&width=900&size=22&center=true&lines=Seja+Bem+Vindo!;Welcome!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o;Developer+in+training"/>
+</div>
     
 ##
 
