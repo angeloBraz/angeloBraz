@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=008080&width=900&size=29&center=true&lines=Seja+Bem+Vindo!;Welcome!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Frontend+e+Backend+em+forma%C3%A7%C3%A3o;Developer+in+training"/>
 </div>
 
+##
+
+### Olá! 👋 Sou Ângelo Gabriel
+
+**Desenvolvedor Backend em formação | Estudante de Ciência da Computação**
+
+Tenho 19 anos e sou apaixonado por tecnologia, arquitetura de software e pela resolução de problemas complexos. Meu foco principal é o **desenvolvimento Backend**: adoro construir a lógica, os bancos de dados e a infraestrutura que fazem as aplicações funcionarem de forma rápida, segura e escalável por trás dos panos.
+
+##
+
 <div align="center">
 
 | 🔥 GitHub Streak | 📊 GitHub Stats |
