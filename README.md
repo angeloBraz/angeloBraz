@@ -10,7 +10,7 @@
 
 ### Olá! 👋 Sou Ângelo Gabriel
 
-**Desenvolvedor Backend em formação | Estudante de Ciência da Computação**
+**`Desenvolvedor Backend em formação`** | **`Estudante de Ciência da Computação`**
 
 Tenho 19 anos e sou apaixonado por tecnologia, arquitetura de software e pela resolução de problemas complexos. Meu foco principal é o **desenvolvimento Backend**: adoro construir a lógica, os bancos de dados e a infraestrutura que fazem as aplicações funcionarem de forma rápida, segura e escalável por trás dos panos.
 
