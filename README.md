@@ -16,6 +16,14 @@ Tenho 19 anos e sou apaixonado por tecnologia, arquitetura de software e pela re
 
 ##
 
+### HI! 👋 I'm Ângelo Gabriel
+
+**`Backend Developer (Junior)`** | **`Computer Science Student`**
+
+I’m 19 years old and I’m passionate about technology, software architecture, and solving complex problems. My main focus is **backend development**: I love building the logic, databases, and infrastructure that make applications run quickly, securely, and scalably behind the scenes.
+
+##
+
 <div align="center">
 
 | 🔥 GitHub Streak | 📊 GitHub Stats |
